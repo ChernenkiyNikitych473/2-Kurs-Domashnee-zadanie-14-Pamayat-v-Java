@@ -31,7 +31,6 @@ public static void main(String[]args) {
 
     public static void changeValue(int value1) {
         value1 = 22;
-        System.out.println(value1);
     }
 
     public static void changeValue(Integer value) {
